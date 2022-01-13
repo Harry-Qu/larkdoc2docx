@@ -7,13 +7,13 @@
 
 ## 添加前
 
-![before](/Users/qzm/code/PycharmProjects/temp/larkdoc2docx/image/before.png)
+![before](image/before.png)
 
 标题和正文等内容均使用正文样式，不方便后期修改
 
 ## 添加后
 
-![after](/Users/qzm/code/PycharmProjects/temp/larkdoc2docx/image/after.png)
+![after](image/after.png)
 
 为标题和正文等内容添加不同样式，方便后期修改
 
